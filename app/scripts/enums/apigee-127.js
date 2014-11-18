@@ -15,6 +15,7 @@ PhonicsApp.config(function ($provide) {
 
     examplesFolder: '/spec-files/',
     exampleFiles: [
+      'intrinno.yaml',
       'default.yaml',
       'minimal.yaml',
       'heroku-pets.yaml',
